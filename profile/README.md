@@ -13,7 +13,7 @@ Our goal is to **empower developers** by providing resources that allow them to 
 Here are a few gems you might stumble upon in our repos:
 
 - **devcontainer-templates**: Devcontainers for SAP devs who need their environment ready faster than it takes to say 'Business Technology Platform' — because nobody has time to manually install dependencies, right?
-- **devcontainer-images**: Pre-built devcontainer images for SAP devs — because configuring development environments is so last season. Just plug, code, and impress your manager with how 'productive' you are!
+- **zjoule (ABAP Copilot)**: An Eclipse AI Assistant that connects with SAP AI Core and provides a "copilot" experience to help you impress your manager with how "productive" you are!
 
 ## Contributing
 
